@@ -1,4 +1,4 @@
-# GmasLev
+# Basic Interpreter
 
 v run interp8.v
 
